@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://le-cowboy-slot.com/
+Sitemap: https://le-cowboy-slot.com/sitemap.xml

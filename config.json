@@ -1,0 +1,206 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#391C16",
+            "lang-select-color": "#222829",
+            "bg-light": "#391C16",
+            "welcome-bonus-bg": "#391C16",
+            "top-games-hover-fg": "#391C16",
+            "main-bg": "#5b2d24",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#957242",
+            "text-head": "#ffffff",
+            "hero-title-text": "#0dd9fd",
+            "welcome-bonus-text": "#db4100",
+            "yellow": "#b99664",
+            "yellow-button": "#db4100",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#fff700",
+            "casino-cards": "#b99664",
+            "bonus-border-head": "#ffffff",
+            "bonus-border": "#ffffff",
+            "providers-back": "#b99664",
+            "faq-label": "#391C16",
+            "bg-footer": "#391C16",
+            "copyright": "#fff700",
+            "starColor": "#fff700",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6038"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6040",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Le Cowboy logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6041",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Le Cowboy "
+        }
+    },
+    "pages": [
+        {
+            "id": "en-en",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Le Cowboy",
+                    "title": "Le Cowboy slot review — RTP, bonuses and max win",
+                    "description": "Detailed Le Cowboy slot review by Hacksaw Gaming: RTP, volatility, bonus features, betting range, 25,000x max win and mobile play.",
+                    "canonical": "le-cowboy-slot.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6042",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "@pafcasino",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6043"
+                },
+                "hero": {
+                    "title": "Le Cowboy — Western Slot with Free Spins",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6044",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -3,
+                    "imageXModifier": 7,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6045",
+                    "mobileImageSizeModifier": -10,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "High win potential up to 25,000x",
+                        "Three layered free spins features",
+                        "Unique Revolver Reveal bonus mechanic",
+                        "Smooth gameplay on mobile devices",
+                        "Stylish Western theme and visuals"
+                    ],
+                    "advantagesAfterText": "",
+                    "knowMore": "Know more",
+                    "appTitle": "Mobile App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6046",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Mobile App",
+                    "mobileGooglePlayImageTitle": "Mobile App",
+                    "mobileIosImageTitle": "Mobile App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Le Cowboy",
+                        "description1": "What makes Le Cowboy stand out is not just the Western theme, but the way Hacksaw turns a winning Wild into a second-stage mechanic. When a Wild takes part in a winning cluster, it becomes a Revolver Cylinder that fires across the grid and reveals Coins, Diamonds, Clovers, Loot Bags, and Reload symbols. That means a normal cluster can quickly evolve into a much more complex value-collection sequence.",
+                        "items": [
+                            "RTP versions listed by SlotCatalog: 96.28%, 94.31%, 92.30%, and 86.33%.",
+                            "Verified bet range: €0.05 to €40.",
+                            "3, 4, or 5 FS scatters unlock High Noon Saloon, Trail of Trickery, and Pistols at Dawn."
+                        ],
+                        "description2": "",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6047",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "A smaller technical inconsistency appears around the layout. One SlotCatalog text block mentions 6x6, but the attributes section on the same page, plus Casino Guru, Casino Wizard and Gambling.com, all describe the game as 6x5. Because of that, 6x5 is the more reliable format to use in the article."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "How to play Le Cowboy",
+                        "description": "<p>The core gameplay uses clusters of 5 or more matching symbols. After every win, Super Cascades remove the winning symbols, new ones fall into place, and the chain continues for as long as new clusters form. If a Wild is part of the winning cluster, it transforms into a Revolver Cylinder once cascades are resolved, which is where the slot starts to separate itself from more standard cluster games.<\/p><br>\n<p>From there, the round can move beyond ordinary symbol payouts. Revolver Cylinders fire 2 to 6 shots and reveal special symbols with direct values or modifiers. In practical terms, that means the most explosive rounds are usually built not just on a big base cluster, but on a strong transition from a cluster into a reveal-and-collect sequence. The official rules also state that FS symbols cannot appear at the same time as Revolver Cylinders.<\/p>\n<div style=\"width:100%; margin:0 0 20px;\">\n  <table style=\"width:100%; margin-top:25px; border-collapse:collapse; border:1px solid #dcdcdc; table-layout:fixed; line-height:clamp(1.25,1.6,1.6); font-size:clamp(10px,2.6vw,16px);\">\n    <thead>\n      <tr>\n        <th style=\"padding:clamp(7px,1.8vw,12px); text-align:left; border:1px solid #dcdcdc; font-weight:700; background:#957242; vertical-align:top; word-break:break-word;\">Gameplay Element<\/th>\n        <th style=\"padding:clamp(7px,1.8vw,12px); text-align:left; border:1px solid #dcdcdc; font-weight:700; background:#957242; vertical-align:top; word-break:break-word;\">How It Works<\/th>\n        <th style=\"padding:clamp(7px,1.8vw,12px); text-align:left; border:1px solid #dcdcdc; font-weight:700; background:#957242; vertical-align:top; word-break:break-word;\">Why It Matters<\/th>\n      <\/tr>\n    <\/thead>\n    <tbody>\n      <tr>\n        <td style=\"padding:clamp(7px,1.8vw,12px); border:1px solid #dcdcdc; vertical-align:top; word-break:break-word;\">Clusters<\/td>\n        <td style=\"padding:clamp(7px,1.8vw,12px); border:1px solid #dcdcdc; vertical-align:top; word-break:break-word;\">Wins are formed by 5 or more matching symbols connected on the grid.<\/td>\n        <td style=\"padding:clamp(7px,1.8vw,12px); border:1px solid #dcdcdc; vertical-align:top; word-break:break-word;\">This is the base way to trigger payouts and start feature chains.<\/td>\n      <\/tr>\n      <tr>\n        <td style=\"padding:clamp(7px,1.8vw,12px); border:1px solid #dcdcdc; vertical-align:top; word-break:break-word;\">Super Cascades<\/td>\n        <td style=\"padding:clamp(7px,1.8vw,12px); border:1px solid #dcdcdc; vertical-align:top; word-break:break-word;\">Winning symbols disappear and new symbols fall into place after each win.<\/td>\n        <td style=\"padding:clamp(7px,1.8vw,12px); border:1px solid #dcdcdc; vertical-align:top; word-break:break-word;\">Creates extra chances for additional clusters in the same round.<\/td>\n      <\/tr>\n      <tr>\n        <td style=\"padding:clamp(7px,1.8vw,12px); border:1px solid #dcdcdc; vertical-align:top; word-break:break-word;\">Wild<\/td>\n        <td style=\"padding:clamp(7px,1.8vw,12px); border:1px solid #dcdcdc; vertical-align:top; word-break:break-word;\">If a Wild is part of a winning cluster, it becomes a Revolver Cylinder.<\/td>\n        <td style=\"padding:clamp(7px,1.8vw,12px); border:1px solid #dcdcdc; vertical-align:top; word-break:break-word;\">Wilds can turn a regular win into a feature-driven sequence.<\/td>\n      <\/tr>\n      <tr>\n        <td style=\"padding:clamp(7px,1.8vw,12px); border:1px solid #dcdcdc; vertical-align:top; word-break:break-word;\">Revolver Cylinder<\/td>\n        <td style=\"padding:clamp(7px,1.8vw,12px); border:1px solid #dcdcdc; vertical-align:top; word-break:break-word;\">Fires 2 to 6 shots and reveals special symbols with values or modifiers.<\/td>\n        <td style=\"padding:clamp(7px,1.8vw,12px); border:1px solid #dcdcdc; vertical-align:top; word-break:break-word;\">This is where the round can expand beyond standard symbol payouts.<\/td>\n      <\/tr>\n      <tr>\n        <td style=\"padding:clamp(7px,1.8vw,12px); border:1px solid #dcdcdc; vertical-align:top; word-break:break-word;\">FS Symbols<\/td>\n        <td style=\"padding:clamp(7px,1.8vw,12px); border:1px solid #dcdcdc; vertical-align:top; word-break:break-word;\">Free Spins symbols follow their own rules and cannot appear with Revolver Cylinders.<\/td>\n        <td style=\"padding:clamp(7px,1.8vw,12px); border:1px solid #dcdcdc; vertical-align:top; word-break:break-word;\">Important for understanding how the bonus flow is separated in gameplay.<\/td>\n      <\/tr>\n    <\/tbody>\n  <\/table>\n<\/div>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Le Cowboy RTP and volatility",
+                        "description": "<p style=\"margin:0 0 16px; line-height:1.7;\">\n  The most common RTP listed for Le Cowboy is 96.28%. At the same time, large catalogs also show alternative versions at 94.31%, 92.30% and 86.33%. In practice, that means the actual RTP can vary depending on the casino, so it is worth checking the info screen inside the exact version you are about to play.\n<\/p>\n\n<p style=\"margin:0 0 16px; line-height:1.7;\">\n  Volatility is slightly less straightforward. Hacksaw’s slot tile shows three out of five volatility bars, while SlotCatalog, Casino Guru and Casino Wizard usually label the game as medium. Gambling.com, however, calls it medium-high. The most balanced way to frame it is this: the default label leans medium, but the 25,000x ceiling and bonus-heavy design can make real sessions feel closer to upper-medium risk.\n<\/p>\n\n<p style=\"margin:0 0 24px;  line-height:1.7;\">\n  That profile tends to suit players who enjoy bonus-driven gameplay and are comfortable waiting for stronger feature sequences. Players who want a very steady slot with simple, flat pacing may find Le Cowboy more feature-dependent than ideal.\n<\/p>\n\n<h2 style=\"font-size:28px; line-height:1.3; margin:0 0 16px; font-weight:700;\">Bets and maximum win<\/h2>\n<div style=\"width:100%; margin:0 0 20px;\">\n  <table style=\"width:100%; margin-top:25px; border-collapse:collapse; border:1px solid #ffffff; table-layout:fixed; line-height:clamp(1.25,1.6,1.6); font-size:clamp(10px,2.6vw,16px);\">\n    <thead>\n      <tr>\n        <th style=\"padding:clamp(7px,1.8vw,12px) clamp(8px,2vw,14px); text-align:left; background:#957242; color:#ffffff; font-weight:700; border:1px solid #ffffff; vertical-align:top; word-break:break-word;\">Stake<\/th>\n        <th style=\"padding:clamp(7px,1.8vw,12px) clamp(8px,2vw,14px); text-align:left; background:#957242; color:#ffffff; font-weight:700; border:1px solid #ffffff; vertical-align:top; word-break:break-word;\">Potential win at 25,000x max win<\/th>\n        <th style=\"padding:clamp(7px,1.8vw,12px) clamp(8px,2vw,14px); text-align:left; background:#957242; color:#ffffff; font-weight:700; border:1px solid #ffffff; vertical-align:top; word-break:break-word;\">Comment<\/th>\n      <\/tr>\n    <\/thead>\n    <tbody>\n      <tr>\n        <td style=\"padding:clamp(7px,1.8vw,12px) clamp(8px,2vw,14px); vertical-align:top; border:1px solid #ffffff; word-break:break-word;\">€0.05<\/td>\n        <td style=\"padding:clamp(7px,1.8vw,12px) clamp(8px,2vw,14px); vertical-align:top; border:1px solid #ffffff; word-break:break-word;\">€1,250<\/td>\n        <td style=\"padding:clamp(7px,1.8vw,12px) clamp(8px,2vw,14px); vertical-align:top; border:1px solid #ffffff; word-break:break-word;\">The most common minimum stake shown in catalogs<\/td>\n      <\/tr>\n      <tr>\n        <td style=\"padding:clamp(7px,1.8vw,12px) clamp(8px,2vw,14px); vertical-align:top; border:1px solid #ffffff; word-break:break-word;\">€1<\/td>\n        <td style=\"padding:clamp(7px,1.8vw,12px) clamp(8px,2vw,14px); vertical-align:top; border:1px solid #ffffff; word-break:break-word;\">€25,000<\/td>\n        <td style=\"padding:clamp(7px,1.8vw,12px) clamp(8px,2vw,14px); vertical-align:top; border:1px solid #ffffff; word-break:break-word;\">A practical benchmark for the slot’s ceiling<\/td>\n      <\/tr>\n      <tr>\n        <td style=\"padding:clamp(7px,1.8vw,12px) clamp(8px,2vw,14px); vertical-align:top; border:1px solid #ffffff; word-break:break-word;\">€2<\/td>\n        <td style=\"padding:clamp(7px,1.8vw,12px) clamp(8px,2vw,14px); vertical-align:top; border:1px solid #ffffff; word-break:break-word;\">€50,000<\/td>\n        <td style=\"padding:clamp(7px,1.8vw,12px) clamp(8px,2vw,14px); vertical-align:top; border:1px solid #ffffff; word-break:break-word;\">Shows how quickly the top-end scales<\/td>\n      <\/tr>\n      <tr>\n        <td style=\"padding:clamp(7px,1.8vw,12px) clamp(8px,2vw,14px); vertical-align:top; border:1px solid #ffffff; word-break:break-word;\">€10<\/td>\n        <td style=\"padding:clamp(7px,1.8vw,12px) clamp(8px,2vw,14px); vertical-align:top; border:1px solid #ffffff; word-break:break-word;\">€250,000<\/td>\n        <td style=\"padding:clamp(7px,1.8vw,12px) clamp(8px,2vw,14px); vertical-align:top; border:1px solid #ffffff; word-break:break-word;\">A level where variance becomes much more noticeable<\/td>\n      <\/tr>\n      <tr>\n        <td style=\"padding:clamp(7px,1.8vw,12px) clamp(8px,2vw,14px); vertical-align:top; border:1px solid #ffffff; word-break:break-word;\">€40<\/td>\n        <td style=\"padding:clamp(7px,1.8vw,12px) clamp(8px,2vw,14px); vertical-align:top; border:1px solid #ffffff; word-break:break-word;\">€1,000,000<\/td>\n        <td style=\"padding:clamp(7px,1.8vw,12px) clamp(8px,2vw,14px); vertical-align:top; border:1px solid #ffffff; word-break:break-word;\">The most common upper limit in SlotCatalog and Casino Guru<\/td>\n      <\/tr>\n    <\/tbody>\n  <\/table>\n<\/div>\n<p style=\"margin:0 0 24px;  line-height:1.7;\">\nThese calculations use the 25,000x max win and the most commonly listed €40 cap. One Gambling.com review mentions a maximum stake of 100.00, which would theoretically raise the top return to 2,500,000 in the stake currency, but that should be treated as an operator or market-specific setup rather than a universal cap.\n<\/p >\n<p style=\"margin:0 0 24px;  line-height:1.7;\">\nIn analytical terms, Le Cowboy is interesting because its ceiling is high even for a game generally grouped around medium volatility. But a big part of that upside is tied to the overlap of Revolver Reveal chains, Clover multipliers, Loot Bags and the stronger bonus tiers, not just to ordinary base-game clusters.<\/p >"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "What is the RTP of Le Cowboy?",
+                            "answer": "The most common listed RTP is 96.28%, but alternative versions of 94.31%, 92.30% and 86.33% are also reported. The exact RTP depends on the casino and game version."
+                        },
+                        {
+                            "title": "What is the volatility of Le Cowboy?",
+                            "answer": "Most sources classify it as medium, and Hacksaw’s slot tile shows three out of five bars. However, some reviews describe it as medium-high, so real session feel can be slightly tougher than a typical medium slot."
+                        },
+                        {
+                            "title": "What is the minimum bet in Le Cowboy?",
+                            "answer": "The most widely reported minimum stake is €0.05, as shown by both SlotCatalog and Casino Guru."
+                        },
+                        {
+                            "title": "What is the maximum bet in Le Cowboy?",
+                            "answer": "Most catalogs list €40, but Gambling.com mentions a range up to 100.00. The safest conclusion is that the maximum stake depends on casino configuration and market setup."
+                        },
+                        {
+                            "title": "What is the max win in Le Cowboy?",
+                            "answer": "The advertised maximum win is 25,000x the stake, and that figure is repeated across major catalogs and reviews."
+                        },
+                        {
+                            "title": "Does Le Cowboy have free spins and mobile play?",
+                            "answer": "Yes. The slot has three free spins tiers and is designed for mobile-compatible browser play, with support reported across smartphones, tablets and desktop devices."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
